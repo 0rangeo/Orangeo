@@ -7,10 +7,9 @@
         "id": "16b6a489cec35dad",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "Daily Notes/Thursday - 8.07.2021.md",
-            "mode": "source"
+            "file": "000 To Do Kanban.md"
           }
         }
       }
@@ -56,8 +55,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -77,7 +75,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily Notes/Thursday - 8.07.2021.md",
+                "file": "000 To Do Kanban.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -134,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/Thursday - 8.07.2021.md",
+                "file": "000 To Do Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,6 +177,7 @@
   },
   "active": "16b6a489cec35dad",
   "lastOpenFiles": [
+    "000 To Do Kanban.md",
     "Daily Notes/Thursday - 8.07.2021.md",
     "Untitled 1.md",
     "spinal cord.md",
@@ -187,7 +186,6 @@
     "Molecular genetic testing.md",
     "Phrenology.md",
     "localisation of brain function.md",
-    "Deindividuation.md",
-    "soma.md"
+    "Deindividuation.md"
   ]
 }

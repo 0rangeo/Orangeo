@@ -16,7 +16,6 @@ link-date-to-daily-note: false
 - [ ] Learn quotient rule, complete last 4 questions and other questions if needed.
 
 
-
 ## School Things
 
 - [ ] Access school careers newsletter
@@ -26,7 +25,6 @@ link-date-to-daily-note: false
 
 ## Personal
 
-- [ ] Apply to target for a job
 
 
 ## Interests
