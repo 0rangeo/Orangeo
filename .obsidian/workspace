@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "0e85d7beb8538208",
+    "type": "split",
+    "children": [
+      {
+        "id": "16b6a489cec35dad",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "methdos exam prep.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d99bbda55e91110f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f50170297963e9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cdf90899c58f41e0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3a9b58577cb8ebbc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "certain stimuli",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6199c17354c28971",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3c2b941495916e44",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1b52e25d7562c19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "596c5609f09ae3e4",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "methdos exam prep.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.211340884624195,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "9b389a040540d5ec",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b036e9ac1805c813",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "cef97958e44f1fb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec6e8c935dab1ffc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "methdos exam prep.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1a6113cad7b5f121",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "99fd0116b548fd02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d79cb1ac33c88591",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 222,
+    "collapsed": true
+  },
+  "active": "16b6a489cec35dad",
+  "lastOpenFiles": [
+    "Untitled 1.md",
+    "Daily Notes/Thursday - 8.07.2021.md",
+    "spinal cord.md",
+    "epilepsy.md",
+    "Daily Notes/Wednesday - 7.07.2021.md",
+    "Molecular genetic testing.md",
+    "Phrenology.md",
+    "localisation of brain function.md",
+    "Deindividuation.md",
+    "soma.md"
+  ]
+}
