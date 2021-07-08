@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "methdos exam prep.md",
+            "file": "Daily Notes/Thursday - 8.07.2021.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "methdos exam prep.md",
+                "file": "Daily Notes/Thursday - 8.07.2021.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "methdos exam prep.md",
+                "file": "Daily Notes/Thursday - 8.07.2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,8 +179,8 @@
   },
   "active": "16b6a489cec35dad",
   "lastOpenFiles": [
-    "Untitled 1.md",
     "Daily Notes/Thursday - 8.07.2021.md",
+    "Untitled 1.md",
     "spinal cord.md",
     "epilepsy.md",
     "Daily Notes/Wednesday - 7.07.2021.md",
