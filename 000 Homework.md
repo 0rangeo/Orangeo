@@ -2,7 +2,8 @@
 
 kanban-plugin: basic
 show-relative-date: true
-hide-date-display: true
+hide-date-display: false
+hide-date-in-title: true
 
 ---
 
