@@ -7,10 +7,9 @@
         "id": "16b6a489cec35dad",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "neuron.md",
-            "mode": "source"
+            "file": "000 To Do Kanban.md"
           }
         }
       }
@@ -76,7 +75,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "neuron.md",
+                "file": "000 To Do Kanban.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -133,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "neuron.md",
+                "file": "000 To Do Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,15 +177,15 @@
   },
   "active": "16b6a489cec35dad",
   "lastOpenFiles": [
-    "neuron.md",
+    "000 To Do Kanban.md",
+    "040 Quotes.md",
+    "060 Goals.md",
+    "050 Journals.md",
+    "020 Personal Management.md",
+    "001 Home.md",
+    "010 School Subjects.md",
     "Psychology.md",
-    "Neuroimaging techniques.md",
-    "Organisation of the nervous system.md",
-    "Glial cells.md",
-    "Physical Structures.md",
-    "reddit template/MSS-4 Note Template.md",
-    "reddit template/MSS-8 LitNote Template.md",
-    "Daily Notes/Friday - 9.07.2021.md",
-    "Daily Notes/Thursday - 8.07.2021.md"
+    "neuron.md",
+    "Neuroimaging techniques.md"
   ]
 }
