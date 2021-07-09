@@ -8,7 +8,7 @@
 
 ## Diary:
 ### Most memorable event:
-
+I played Valorant with Kylin and Chanindi, did not perform too well lol. 
 
 ### Today I learned...
 

@@ -8,7 +8,7 @@
 
 ## Diary:
 ### Most memorable event:
-
+Today we watched Black Widow which was pretty fun. Valentina appears in the post credits so I think Yelena will be the dark counterpart of Black Widow if they do dark avengers.
 
 ### Today I learned...
 

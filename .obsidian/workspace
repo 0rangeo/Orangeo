@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily Notes/Friday - 9.07.2021.md",
+            "file": "reddit template/MSS-4 Note Template.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily Notes/Friday - 9.07.2021.md",
+                "file": "reddit template/MSS-4 Note Template.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/Friday - 9.07.2021.md",
+                "file": "reddit template/MSS-4 Note Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,15 +178,15 @@
   },
   "active": "16b6a489cec35dad",
   "lastOpenFiles": [
+    "reddit template/MSS-4 Note Template.md",
+    "reddit template/MSS-8 LitNote Template.md",
     "Daily Notes/Friday - 9.07.2021.md",
+    "Daily Notes/Thursday - 8.07.2021.md",
+    "Daily Notes/Wednesday - 7.07.2021.md",
     "000 To Do Kanban.md",
     "spinal cord.md",
-    "Daily Notes/Thursday - 8.07.2021.md",
     "Untitled 1.md",
     "epilepsy.md",
-    "Daily Notes/Wednesday - 7.07.2021.md",
-    "Molecular genetic testing.md",
-    "Phrenology.md",
-    "localisation of brain function.md"
+    "Molecular genetic testing.md"
   ]
 }
