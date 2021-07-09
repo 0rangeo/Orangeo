@@ -9,7 +9,7 @@
         "state": {
           "type": "kanban",
           "state": {
-            "file": "000 To Do Kanban.md"
+            "file": "000 Homework.md"
           }
         }
       }
@@ -75,7 +75,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000 To Do Kanban.md",
+                "file": "000 Homework.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 To Do Kanban.md",
+                "file": "000 Homework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,6 +177,8 @@
   },
   "active": "16b6a489cec35dad",
   "lastOpenFiles": [
+    "Untitled Kanban.md",
+    "Untitled 1.md",
     "000 To Do Kanban.md",
     "040 Quotes.md",
     "060 Goals.md",
@@ -184,8 +186,6 @@
     "020 Personal Management.md",
     "001 Home.md",
     "010 School Subjects.md",
-    "Psychology.md",
-    "neuron.md",
-    "Neuroimaging techniques.md"
+    "Psychology.md"
   ]
 }
