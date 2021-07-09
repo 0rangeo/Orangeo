@@ -7,9 +7,10 @@
         "id": "16b6a489cec35dad",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "000 Homework.md"
+            "file": "axon.md",
+            "mode": "source"
           }
         }
       }
@@ -75,7 +76,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000 Homework.md",
+                "file": "axon.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -132,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 Homework.md",
+                "file": "axon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,15 +178,15 @@
   },
   "active": "16b6a489cec35dad",
   "lastOpenFiles": [
+    "axon.md",
+    "060 Goals.md",
     "000 Homework.md",
     "000 To Do Kanban.md",
     "Untitled Kanban.md",
     "Untitled 1.md",
     "040 Quotes.md",
-    "060 Goals.md",
     "050 Journals.md",
     "020 Personal Management.md",
-    "001 Home.md",
-    "010 School Subjects.md"
+    "001 Home.md"
   ]
 }
