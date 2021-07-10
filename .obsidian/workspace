@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "axon.md",
+            "file": "Daily Notes/Saturday - 10.07.2021.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "axon.md",
+                "file": "Daily Notes/Saturday - 10.07.2021.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "axon.md",
+                "file": "Daily Notes/Saturday - 10.07.2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,6 +178,7 @@
   },
   "active": "16b6a489cec35dad",
   "lastOpenFiles": [
+    "Daily Notes/Saturday - 10.07.2021.md",
     "axon.md",
     "060 Goals.md",
     "000 Homework.md",
@@ -186,7 +187,6 @@
     "Untitled 1.md",
     "040 Quotes.md",
     "050 Journals.md",
-    "020 Personal Management.md",
-    "001 Home.md"
+    "020 Personal Management.md"
   ]
 }
