@@ -7,10 +7,9 @@
         "id": "16b6a489cec35dad",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "Daily Notes/Saturday - 10.07.2021.md",
-            "mode": "source"
+            "file": "000 To Do Kanban.md"
           }
         }
       }
@@ -76,7 +75,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily Notes/Saturday - 10.07.2021.md",
+                "file": "000 To Do Kanban.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -133,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/Saturday - 10.07.2021.md",
+                "file": "000 To Do Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,15 +177,15 @@
   },
   "active": "16b6a489cec35dad",
   "lastOpenFiles": [
+    "000 To Do Kanban.md",
+    "Daily Notes/Sunday - 11.07.2021.md",
     "Daily Notes/Saturday - 10.07.2021.md",
     "axon.md",
     "060 Goals.md",
     "000 Homework.md",
-    "000 To Do Kanban.md",
     "Untitled Kanban.md",
     "Untitled 1.md",
     "040 Quotes.md",
-    "050 Journals.md",
-    "020 Personal Management.md"
+    "050 Journals.md"
   ]
 }
