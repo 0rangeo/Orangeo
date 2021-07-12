@@ -1,1 +1,12 @@
-{"commitMessage":"laptop vault backup: {{date}}","commitDateFormat":"YYYY-MM-DD HH:mm:ss","autoSaveInterval":5,"autoPullInterval":5,"autoPullOnBoot":true,"disablePush":false,"pullBeforePush":true,"disablePopups":false,"listChangedFilesInMessageBody":false,"showStatusBar":true}
+{
+  "commitMessage": "laptop vault backup: {{date}}",
+  "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
+  "autoSaveInterval": 5,
+  "autoPullInterval": 5,
+  "autoPullOnBoot": true,
+  "disablePush": false,
+  "pullBeforePush": true,
+  "disablePopups": false,
+  "listChangedFilesInMessageBody": false,
+  "showStatusBar": true
+}
